@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+
+<head>
+ <meta type="category">Other &gt; Misc</meta>
+ <meta type="name">Big.Buck.Bunny</meta>
+ <meta type="x-rating-id">47139c9cf2140cccd90520f5f25e1fa4</meta>
+ <meta type="x-rating-host">https://api.nzbgeek.info/feedback</meta>
+ <meta type="title">367978t0s1V90V0t3S3K46z41y640879.mkv</meta> <meta type="password">869648L2V6l4l0L34H79A5z2K0386238</meta> <meta type="indexer">NZBgeek</meta> <meta type="UOSCLbA1rQZ">95867t7s9V30V19t9S21z85T26h82709</meta></head>
+
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [01/23] - &quot;Big.Buck.Bunny.vol-01.par2&quot; yEnc (1/1)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="17269" number="1">uJq1A.251076$8E2.241359@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [02/23] - &quot;Big.Buck.Bunny.part01.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="404100" number="1">vJq1A.251077$8E2.66954@fx33.iad</segment>
+  <segment bytes="400303" number="2">wJq1A.251078$8E2.33294@fx33.iad</segment>
+  <segment bytes="399647" number="3">xJq1A.251079$8E2.157975@fx33.iad</segment>
+  <segment bytes="399693" number="4">xJq1A.251080$8E2.19729@fx33.iad</segment>
+  <segment bytes="396416" number="5">yJq1A.251081$8E2.76045@fx33.iad</segment>
+  <segment bytes="399254" number="6">zJq1A.251082$8E2.125300@fx33.iad</segment>
+  <segment bytes="398911" number="7">AJq1A.251083$8E2.101965@fx33.iad</segment>
+  <segment bytes="398547" number="8">AJq1A.251084$8E2.219379@fx33.iad</segment>
+  <segment bytes="395788" number="9">BJq1A.251085$8E2.99491@fx33.iad</segment>
+  <segment bytes="398326" number="10">CJq1A.251086$8E2.196882@fx33.iad</segment>
+  <segment bytes="398404" number="11">DJq1A.251087$8E2.194639@fx33.iad</segment>
+  <segment bytes="398381" number="12">EJq1A.251088$8E2.176295@fx33.iad</segment>
+  <segment bytes="398274" number="13">EJq1A.251089$8E2.27880@fx33.iad</segment>
+  <segment bytes="398455" number="14">FJq1A.251090$8E2.75700@fx33.iad</segment>
+  <segment bytes="398560" number="15">GJq1A.251091$8E2.69061@fx33.iad</segment>
+  <segment bytes="398582" number="16">HJq1A.251092$8E2.30225@fx33.iad</segment>
+  <segment bytes="398406" number="17">HJq1A.251093$8E2.160776@fx33.iad</segment>
+  <segment bytes="398622" number="18">IJq1A.251094$8E2.109840@fx33.iad</segment>
+  <segment bytes="398577" number="19">JJq1A.251095$8E2.210398@fx33.iad</segment>
+  <segment bytes="398782" number="20">KJq1A.251096$8E2.195963@fx33.iad</segment>
+  <segment bytes="398778" number="21">KJq1A.251097$8E2.119994@fx33.iad</segment>
+  <segment bytes="398747" number="22">LJq1A.251098$8E2.163220@fx33.iad</segment>
+  <segment bytes="398700" number="23">MJq1A.251099$8E2.170579@fx33.iad</segment>
+  <segment bytes="398455" number="24">NJq1A.251100$8E2.8328@fx33.iad</segment>
+  <segment bytes="398642" number="25">NJq1A.251101$8E2.135297@fx33.iad</segment>
+  <segment bytes="398617" number="26">OJq1A.251102$8E2.181868@fx33.iad</segment>
+  <segment bytes="398504" number="27">PJq1A.251103$8E2.93745@fx33.iad</segment>
+  <segment bytes="398408" number="28">QJq1A.251104$8E2.8564@fx33.iad</segment>
+  <segment bytes="398519" number="29">QJq1A.251105$8E2.126964@fx33.iad</segment>
+  <segment bytes="398632" number="30">RJq1A.251106$8E2.44692@fx33.iad</segment>
+  <segment bytes="398734" number="31">SJq1A.251107$8E2.216020@fx33.iad</segment>
+  <segment bytes="398548" number="32">TJq1A.251108$8E2.4509@fx33.iad</segment>
+  <segment bytes="398762" number="33">UJq1A.251109$8E2.218486@fx33.iad</segment>
+  <segment bytes="398472" number="34">UJq1A.251110$8E2.145211@fx33.iad</segment>
+  <segment bytes="398978" number="35">VJq1A.251111$8E2.2441@fx33.iad</segment>
+  <segment bytes="395728" number="36">WJq1A.251112$8E2.234947@fx33.iad</segment>
+  <segment bytes="398185" number="37">XJq1A.251113$8E2.38226@fx33.iad</segment>
+  <segment bytes="395485" number="38">XJq1A.251114$8E2.104992@fx33.iad</segment>
+  <segment bytes="398311" number="39">YJq1A.251115$8E2.179773@fx33.iad</segment>
+  <segment bytes="25868" number="40">ZJq1A.251116$8E2.194150@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [03/23] - &quot;Big.Buck.Bunny.part02.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398426" number="1">ZJq1A.251117$8E2.249554@fx33.iad</segment>
+  <segment bytes="398542" number="2">_Jq1A.251118$8E2.141169@fx33.iad</segment>
+  <segment bytes="398598" number="3">%Jq1A.251119$8E2.77443@fx33.iad</segment>
+  <segment bytes="398557" number="4">0Kq1A.251120$8E2.124335@fx33.iad</segment>
+  <segment bytes="398428" number="5">0Kq1A.251121$8E2.57398@fx33.iad</segment>
+  <segment bytes="398450" number="6">1Kq1A.251122$8E2.82468@fx33.iad</segment>
+  <segment bytes="398577" number="7">2Kq1A.251123$8E2.107397@fx33.iad</segment>
+  <segment bytes="398300" number="8">3Kq1A.251124$8E2.141475@fx33.iad</segment>
+  <segment bytes="398528" number="9">4Kq1A.251125$8E2.94832@fx33.iad</segment>
+  <segment bytes="398691" number="10">4Kq1A.251126$8E2.200418@fx33.iad</segment>
+  <segment bytes="395742" number="11">5Kq1A.251127$8E2.10225@fx33.iad</segment>
+  <segment bytes="395548" number="12">6Kq1A.251128$8E2.57635@fx33.iad</segment>
+  <segment bytes="398742" number="13">7Kq1A.251129$8E2.212498@fx33.iad</segment>
+  <segment bytes="398716" number="14">8Kq1A.251130$8E2.210486@fx33.iad</segment>
+  <segment bytes="398555" number="15">8Kq1A.251131$8E2.130829@fx33.iad</segment>
+  <segment bytes="398500" number="16">9Kq1A.251132$8E2.184088@fx33.iad</segment>
+  <segment bytes="396098" number="17">aKq1A.251133$8E2.155751@fx33.iad</segment>
+  <segment bytes="398414" number="18">bKq1A.251134$8E2.189943@fx33.iad</segment>
+  <segment bytes="398691" number="19">bKq1A.251135$8E2.39491@fx33.iad</segment>
+  <segment bytes="398538" number="20">cKq1A.251136$8E2.7009@fx33.iad</segment>
+  <segment bytes="398637" number="21">dKq1A.251137$8E2.25143@fx33.iad</segment>
+  <segment bytes="398649" number="22">eKq1A.251138$8E2.48258@fx33.iad</segment>
+  <segment bytes="399014" number="23">eKq1A.251139$8E2.14274@fx33.iad</segment>
+  <segment bytes="398497" number="24">fKq1A.251140$8E2.32945@fx33.iad</segment>
+  <segment bytes="398835" number="25">gKq1A.251141$8E2.198335@fx33.iad</segment>
+  <segment bytes="398496" number="26">hKq1A.251142$8E2.143256@fx33.iad</segment>
+  <segment bytes="398827" number="27">hKq1A.251143$8E2.57723@fx33.iad</segment>
+  <segment bytes="398469" number="28">iKq1A.251144$8E2.156310@fx33.iad</segment>
+  <segment bytes="398659" number="29">jKq1A.251145$8E2.102239@fx33.iad</segment>
+  <segment bytes="398695" number="30">jKq1A.251146$8E2.209077@fx33.iad</segment>
+  <segment bytes="399133" number="31">kKq1A.251147$8E2.137582@fx33.iad</segment>
+  <segment bytes="398943" number="32">lKq1A.251148$8E2.249206@fx33.iad</segment>
+  <segment bytes="399175" number="33">mKq1A.251149$8E2.171369@fx33.iad</segment>
+  <segment bytes="398950" number="34">nKq1A.251150$8E2.113157@fx33.iad</segment>
+  <segment bytes="399489" number="35">nKq1A.251151$8E2.113913@fx33.iad</segment>
+  <segment bytes="399039" number="36">oKq1A.251152$8E2.203443@fx33.iad</segment>
+  <segment bytes="398688" number="37">pKq1A.251153$8E2.209867@fx33.iad</segment>
+  <segment bytes="398199" number="38">qKq1A.251154$8E2.171966@fx33.iad</segment>
+  <segment bytes="398204" number="39">qKq1A.251155$8E2.12323@fx33.iad</segment>
+  <segment bytes="25837" number="40">rKq1A.251156$8E2.228038@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [04/23] - &quot;Big.Buck.Bunny.part03.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398055" number="1">sKq1A.251157$8E2.79185@fx33.iad</segment>
+  <segment bytes="398132" number="2">tKq1A.251158$8E2.25000@fx33.iad</segment>
+  <segment bytes="398114" number="3">tKq1A.251159$8E2.111237@fx33.iad</segment>
+  <segment bytes="395549" number="4">uKq1A.251160$8E2.60052@fx33.iad</segment>
+  <segment bytes="398367" number="5">vKq1A.251161$8E2.63976@fx33.iad</segment>
+  <segment bytes="398266" number="6">wKq1A.251162$8E2.176538@fx33.iad</segment>
+  <segment bytes="398827" number="7">wKq1A.251163$8E2.22097@fx33.iad</segment>
+  <segment bytes="398871" number="8">xKq1A.251164$8E2.220978@fx33.iad</segment>
+  <segment bytes="398682" number="9">yKq1A.251165$8E2.103490@fx33.iad</segment>
+  <segment bytes="398420" number="10">zKq1A.251166$8E2.25827@fx33.iad</segment>
+  <segment bytes="398720" number="11">AKq1A.251168$8E2.102455@fx33.iad</segment>
+  <segment bytes="398750" number="12">AKq1A.251169$8E2.21432@fx33.iad</segment>
+  <segment bytes="398789" number="13">BKq1A.251171$8E2.241532@fx33.iad</segment>
+  <segment bytes="398799" number="14">CKq1A.251172$8E2.38797@fx33.iad</segment>
+  <segment bytes="398651" number="15">DKq1A.251173$8E2.122582@fx33.iad</segment>
+  <segment bytes="398511" number="16">EKq1A.251175$8E2.116293@fx33.iad</segment>
+  <segment bytes="399176" number="17">EKq1A.251176$8E2.242464@fx33.iad</segment>
+  <segment bytes="399382" number="18">FKq1A.251177$8E2.196829@fx33.iad</segment>
+  <segment bytes="398763" number="19">GKq1A.251179$8E2.192600@fx33.iad</segment>
+  <segment bytes="398883" number="20">HKq1A.251180$8E2.613@fx33.iad</segment>
+  <segment bytes="398710" number="21">IKq1A.251182$8E2.3467@fx33.iad</segment>
+  <segment bytes="398721" number="22">IKq1A.251183$8E2.66882@fx33.iad</segment>
+  <segment bytes="395861" number="23">JKq1A.251185$8E2.248080@fx33.iad</segment>
+  <segment bytes="398912" number="24">KKq1A.251186$8E2.127401@fx33.iad</segment>
+  <segment bytes="398831" number="25">LKq1A.251188$8E2.51223@fx33.iad</segment>
+  <segment bytes="398541" number="26">MKq1A.251189$8E2.145792@fx33.iad</segment>
+  <segment bytes="398743" number="27">MKq1A.251190$8E2.6303@fx33.iad</segment>
+  <segment bytes="398708" number="28">NKq1A.251192$8E2.59780@fx33.iad</segment> 
+  <segment bytes="398523" number="29">OKq1A.251193$8E2.207042@fx33.iad</segment>
+  <segment bytes="398514" number="30">PKq1A.251195$8E2.210543@fx33.iad</segment>
+  <segment bytes="398645" number="31">PKq1A.251196$8E2.223626@fx33.iad</segment>
+  <segment bytes="398945" number="32">QKq1A.251197$8E2.207812@fx33.iad</segment>
+  <segment bytes="398976" number="33">RKq1A.251199$8E2.2478@fx33.iad</segment>
+  <segment bytes="399045" number="34">SKq1A.251200$8E2.238980@fx33.iad</segment>
+  <segment bytes="399185" number="35">SKq1A.251202$8E2.188146@fx33.iad</segment>
+  <segment bytes="398787" number="36">TKq1A.251203$8E2.220264@fx33.iad</segment>
+  <segment bytes="398647" number="37">UKq1A.251205$8E2.209116@fx33.iad</segment>
+  <segment bytes="398838" number="38">VKq1A.251206$8E2.249336@fx33.iad</segment>
+  <segment bytes="398646" number="39">WKq1A.251208$8E2.11798@fx33.iad</segment>
+  <segment bytes="25860" number="40">WKq1A.251209$8E2.64678@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [05/23] - &quot;Big.Buck.Bunny.part04.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398708" number="1">XKq1A.251210$8E2.66088@fx33.iad</segment>
+  <segment bytes="398957" number="2">YKq1A.251212$8E2.220411@fx33.iad</segment>
+  <segment bytes="399064" number="3">ZKq1A.251213$8E2.208085@fx33.iad</segment>
+  <segment bytes="398731" number="4">ZKq1A.251214$8E2.54675@fx33.iad</segment>
+  <segment bytes="398628" number="5">_Kq1A.251216$8E2.53329@fx33.iad</segment>
+  <segment bytes="398909" number="6">%Kq1A.251217$8E2.221114@fx33.iad</segment>
+  <segment bytes="399320" number="7">0Lq1A.251218$8E2.98943@fx33.iad</segment>
+  <segment bytes="399223" number="8">0Lq1A.251220$8E2.156080@fx33.iad</segment>
+  <segment bytes="398624" number="9">1Lq1A.251221$8E2.60486@fx33.iad</segment>
+  <segment bytes="398679" number="10">2Lq1A.251223$8E2.66189@fx33.iad</segment>
+  <segment bytes="398922" number="11">3Lq1A.251224$8E2.164332@fx33.iad</segment>
+  <segment bytes="398728" number="12">4Lq1A.251225$8E2.178195@fx33.iad</segment>
+  <segment bytes="396138" number="13">4Lq1A.251227$8E2.131892@fx33.iad</segment>
+  <segment bytes="398978" number="14">5Lq1A.251228$8E2.141296@fx33.iad</segment>
+  <segment bytes="398850" number="15">6Lq1A.251230$8E2.162316@fx33.iad</segment>
+  <segment bytes="398592" number="16">7Lq1A.251231$8E2.31740@fx33.iad</segment>
+  <segment bytes="398720" number="17">7Lq1A.251232$8E2.201336@fx33.iad</segment>
+  <segment bytes="398750" number="18">8Lq1A.251234$8E2.201202@fx33.iad</segment>
+  <segment bytes="398819" number="19">9Lq1A.251235$8E2.43138@fx33.iad</segment>
+  <segment bytes="396253" number="20">aLq1A.251237$8E2.166913@fx33.iad</segment>
+  <segment bytes="398704" number="21">aLq1A.251238$8E2.18662@fx33.iad</segment>
+  <segment bytes="398778" number="22">bLq1A.251240$8E2.184475@fx33.iad</segment>
+  <segment bytes="398564" number="23">cLq1A.251241$8E2.143162@fx33.iad</segment>
+  <segment bytes="398849" number="24">dLq1A.251243$8E2.46799@fx33.iad</segment>
+  <segment bytes="398793" number="25">eLq1A.251244$8E2.213028@fx33.iad</segment>
+  <segment bytes="399307" number="26">eLq1A.251245$8E2.23438@fx33.iad</segment>
+  <segment bytes="398821" number="27">fLq1A.251247$8E2.99675@fx33.iad</segment>
+  <segment bytes="398618" number="28">gLq1A.251248$8E2.71885@fx33.iad</segment>
+  <segment bytes="398651" number="29">hLq1A.251250$8E2.244609@fx33.iad</segment>
+  <segment bytes="398843" number="30">iLq1A.251251$8E2.42017@fx33.iad</segment>
+  <segment bytes="398915" number="31">iLq1A.251253$8E2.50287@fx33.iad</segment>
+  <segment bytes="398846" number="32">jLq1A.251254$8E2.170764@fx33.iad</segment>
+  <segment bytes="398696" number="33">kLq1A.251255$8E2.147587@fx33.iad</segment>
+  <segment bytes="396430" number="34">lLq1A.251257$8E2.97363@fx33.iad</segment>
+  <segment bytes="399256" number="35">lLq1A.251258$8E2.118541@fx33.iad</segment>
+  <segment bytes="398780" number="36">mLq1A.251259$8E2.167611@fx33.iad</segment>
+  <segment bytes="398703" number="37">nLq1A.251261$8E2.246887@fx33.iad</segment>
+  <segment bytes="398909" number="38">oLq1A.251262$8E2.3299@fx33.iad</segment>
+  <segment bytes="398991" number="39">oLq1A.251264$8E2.126350@fx33.iad</segment>
+  <segment bytes="25701" number="40">pLq1A.251265$8E2.190406@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [06/23] - &quot;Big.Buck.Bunny.part05.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398741" number="1">qLq1A.251267$8E2.176078@fx33.iad</segment>
+  <segment bytes="398471" number="2">rLq1A.251268$8E2.62632@fx33.iad</segment>
+  <segment bytes="399229" number="3">sLq1A.251269$8E2.217864@fx33.iad</segment>
+  <segment bytes="399306" number="4">tLq1A.251271$8E2.71770@fx33.iad</segment>
+  <segment bytes="398638" number="5">tLq1A.251272$8E2.94695@fx33.iad</segment>
+  <segment bytes="398900" number="6">uLq1A.251273$8E2.85661@fx33.iad</segment>
+  <segment bytes="398869" number="7">vLq1A.251275$8E2.174023@fx33.iad</segment>
+  <segment bytes="398642" number="8">wLq1A.251276$8E2.72655@fx33.iad</segment>
+  <segment bytes="399139" number="9">xLq1A.251277$8E2.163502@fx33.iad</segment>
+  <segment bytes="398954" number="10">xLq1A.251279$8E2.215425@fx33.iad</segment>
+  <segment bytes="398919" number="11">yLq1A.251280$8E2.54001@fx33.iad</segment>
+  <segment bytes="398859" number="12">zLq1A.251281$8E2.56244@fx33.iad</segment>
+  <segment bytes="398911" number="13">ALq1A.251283$8E2.110886@fx33.iad</segment>
+  <segment bytes="398975" number="14">ALq1A.251284$8E2.174062@fx33.iad</segment>
+  <segment bytes="398873" number="15">BLq1A.251286$8E2.40631@fx33.iad</segment>
+  <segment bytes="395941" number="16">CLq1A.251287$8E2.109497@fx33.iad</segment>
+  <segment bytes="398853" number="17">DLq1A.251288$8E2.143704@fx33.iad</segment>
+  <segment bytes="398640" number="18">DLq1A.251290$8E2.31647@fx33.iad</segment>
+  <segment bytes="398676" number="19">ELq1A.251291$8E2.40114@fx33.iad</segment>
+  <segment bytes="396010" number="20">FLq1A.251293$8E2.4852@fx33.iad</segment>
+  <segment bytes="398609" number="21">GLq1A.251294$8E2.142641@fx33.iad</segment>
+  <segment bytes="398982" number="22">HLq1A.251295$8E2.118305@fx33.iad</segment>
+  <segment bytes="398999" number="23">HLq1A.251297$8E2.62754@fx33.iad</segment>
+  <segment bytes="398926" number="24">ILq1A.251298$8E2.198208@fx33.iad</segment>
+  <segment bytes="399152" number="25">JLq1A.251300$8E2.144261@fx33.iad</segment>
+  <segment bytes="399036" number="26">JLq1A.251301$8E2.183363@fx33.iad</segment>
+  <segment bytes="398468" number="27">KLq1A.251302$8E2.231454@fx33.iad</segment>
+  <segment bytes="399187" number="28">LLq1A.251304$8E2.139016@fx33.iad</segment>
+  <segment bytes="398870" number="29">MLq1A.251305$8E2.51842@fx33.iad</segment>
+  <segment bytes="398789" number="30">NLq1A.251306$8E2.225596@fx33.iad</segment>
+  <segment bytes="398908" number="31">NLq1A.251308$8E2.24580@fx33.iad</segment>
+  <segment bytes="398684" number="32">OLq1A.251309$8E2.210203@fx33.iad</segment>
+  <segment bytes="398885" number="33">PLq1A.251311$8E2.42224@fx33.iad</segment>
+  <segment bytes="398747" number="34">QLq1A.251312$8E2.49779@fx33.iad</segment>
+  <segment bytes="398505" number="35">QLq1A.251314$8E2.76109@fx33.iad</segment>
+  <segment bytes="398556" number="36">RLq1A.251315$8E2.12510@fx33.iad</segment>
+  <segment bytes="398814" number="37">SLq1A.251316$8E2.35453@fx33.iad</segment>
+  <segment bytes="398919" number="38">TLq1A.251318$8E2.103491@fx33.iad</segment>
+  <segment bytes="398740" number="39">TLq1A.251319$8E2.151285@fx33.iad</segment>
+  <segment bytes="25896" number="40">ULq1A.251320$8E2.247078@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [07/23] - &quot;Big.Buck.Bunny.part06.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398577" number="1">VLq1A.251322$8E2.245274@fx33.iad</segment>
+  <segment bytes="398594" number="2">VLq1A.251323$8E2.63492@fx33.iad</segment>
+  <segment bytes="398577" number="3">WLq1A.251325$8E2.228887@fx33.iad</segment>
+  <segment bytes="398768" number="4">XLq1A.251326$8E2.145458@fx33.iad</segment>
+  <segment bytes="398692" number="5">YLq1A.251327$8E2.207312@fx33.iad</segment>
+  <segment bytes="398639" number="6">YLq1A.251329$8E2.99713@fx33.iad</segment>
+  <segment bytes="396037" number="7">ZLq1A.251330$8E2.95936@fx33.iad</segment>
+  <segment bytes="398712" number="8">_Lq1A.251332$8E2.63779@fx33.iad</segment>
+  <segment bytes="398986" number="9">%Lq1A.251333$8E2.215508@fx33.iad</segment>
+  <segment bytes="399036" number="10">%Lq1A.251334$8E2.1618@fx33.iad</segment>
+  <segment bytes="398669" number="11">0Mq1A.251336$8E2.225791@fx33.iad</segment>
+  <segment bytes="398567" number="12">1Mq1A.251337$8E2.86358@fx33.iad</segment>
+  <segment bytes="398678" number="13">2Mq1A.251339$8E2.29183@fx33.iad</segment>
+  <segment bytes="398875" number="14">3Mq1A.251340$8E2.50521@fx33.iad</segment>
+  <segment bytes="398701" number="15">3Mq1A.251342$8E2.40597@fx33.iad</segment>
+  <segment bytes="399070" number="16">4Mq1A.251343$8E2.104148@fx33.iad</segment>
+  <segment bytes="398712" number="17">5Mq1A.251344$8E2.55313@fx33.iad</segment>   
+  <segment bytes="398711" number="18">6Mq1A.251346$8E2.166004@fx33.iad</segment>
+  <segment bytes="398982" number="19">6Mq1A.251347$8E2.96056@fx33.iad</segment>
+  <segment bytes="399097" number="20">7Mq1A.251348$8E2.40615@fx33.iad</segment>
+  <segment bytes="398964" number="21">8Mq1A.251350$8E2.88349@fx33.iad</segment>
+  <segment bytes="399024" number="22">9Mq1A.251351$8E2.56142@fx33.iad</segment>
+  <segment bytes="398989" number="23">9Mq1A.251353$8E2.65713@fx33.iad</segment>
+  <segment bytes="399030" number="24">aMq1A.251354$8E2.71158@fx33.iad</segment>
+  <segment bytes="399140" number="25">bMq1A.251355$8E2.176866@fx33.iad</segment>
+  <segment bytes="399168" number="26">cMq1A.251357$8E2.130101@fx33.iad</segment>
+  <segment bytes="399001" number="27">cMq1A.251358$8E2.49119@fx33.iad</segment>
+  <segment bytes="398777" number="28">dMq1A.251360$8E2.203735@fx33.iad</segment>
+  <segment bytes="398711" number="29">eMq1A.251361$8E2.127986@fx33.iad</segment>
+  <segment bytes="398764" number="30">fMq1A.251362$8E2.154512@fx33.iad</segment>
+  <segment bytes="398368" number="31">fMq1A.251364$8E2.32360@fx33.iad</segment>
+  <segment bytes="398589" number="32">gMq1A.251365$8E2.61611@fx33.iad</segment>
+  <segment bytes="399193" number="33">hMq1A.251366$8E2.76815@fx33.iad</segment>
+  <segment bytes="398774" number="34">iMq1A.251368$8E2.235055@fx33.iad</segment>
+  <segment bytes="398741" number="35">jMq1A.251369$8E2.82102@fx33.iad</segment>
+  <segment bytes="398878" number="36">jMq1A.251370$8E2.141420@fx33.iad</segment>
+  <segment bytes="398904" number="37">kMq1A.251372$8E2.233189@fx33.iad</segment>
+  <segment bytes="398899" number="38">lMq1A.251373$8E2.46901@fx33.iad</segment>
+  <segment bytes="398966" number="39">mMq1A.251374$8E2.19766@fx33.iad</segment>
+  <segment bytes="25886" number="40">mMq1A.251376$8E2.46881@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [08/23] - &quot;Big.Buck.Bunny.part07.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398608" number="1">nMq1A.251377$8E2.212435@fx33.iad</segment>
+  <segment bytes="399170" number="2">oMq1A.251379$8E2.43404@fx33.iad</segment>
+  <segment bytes="395923" number="3">oMq1A.251380$8E2.79346@fx33.iad</segment>
+  <segment bytes="398310" number="4">pMq1A.251382$8E2.20376@fx33.iad</segment>
+  <segment bytes="398468" number="5">qMq1A.251383$8E2.145574@fx33.iad</segment>
+  <segment bytes="398249" number="6">rMq1A.251385$8E2.126647@fx33.iad</segment>
+  <segment bytes="398466" number="7">sMq1A.251386$8E2.102701@fx33.iad</segment>
+  <segment bytes="398542" number="8">tMq1A.251387$8E2.146605@fx33.iad</segment>
+  <segment bytes="398798" number="9">tMq1A.251389$8E2.150334@fx33.iad</segment>
+  <segment bytes="399085" number="10">uMq1A.251390$8E2.23856@fx33.iad</segment>
+  <segment bytes="399072" number="11">vMq1A.251392$8E2.132624@fx33.iad</segment>
+  <segment bytes="399522" number="12">wMq1A.251393$8E2.243644@fx33.iad</segment>
+  <segment bytes="396422" number="13">wMq1A.251394$8E2.209506@fx33.iad</segment>
+  <segment bytes="398930" number="14">xMq1A.251396$8E2.191153@fx33.iad</segment>
+  <segment bytes="395932" number="15">yMq1A.251397$8E2.225226@fx33.iad</segment>
+  <segment bytes="398721" number="16">zMq1A.251399$8E2.159626@fx33.iad</segment>
+  <segment bytes="398791" number="17">zMq1A.251400$8E2.153076@fx33.iad</segment>
+  <segment bytes="398498" number="18">AMq1A.251402$8E2.86435@fx33.iad</segment>
+  <segment bytes="398808" number="19">BMq1A.251403$8E2.133925@fx33.iad</segment>
+  <segment bytes="398781" number="20">CMq1A.251404$8E2.219567@fx33.iad</segment>
+  <segment bytes="398550" number="21">DMq1A.251406$8E2.207399@fx33.iad</segment>
+  <segment bytes="398796" number="22">DMq1A.251407$8E2.21869@fx33.iad</segment>
+  <segment bytes="398830" number="23">EMq1A.251409$8E2.112985@fx33.iad</segment>
+  <segment bytes="398574" number="24">FMq1A.251410$8E2.230746@fx33.iad</segment>
+  <segment bytes="398827" number="25">GMq1A.251412$8E2.114409@fx33.iad</segment>
+  <segment bytes="398848" number="26">GMq1A.251413$8E2.80804@fx33.iad</segment>
+  <segment bytes="398670" number="27">HMq1A.251414$8E2.115361@fx33.iad</segment>
+  <segment bytes="398603" number="28">IMq1A.251416$8E2.164460@fx33.iad</segment>
+  <segment bytes="395721" number="29">JMq1A.251417$8E2.214536@fx33.iad</segment>
+  <segment bytes="398681" number="30">JMq1A.251419$8E2.15412@fx33.iad</segment>
+  <segment bytes="398574" number="31">KMq1A.251420$8E2.153655@fx33.iad</segment>
+  <segment bytes="398598" number="32">LMq1A.251421$8E2.58058@fx33.iad</segment>
+  <segment bytes="398891" number="33">MMq1A.251423$8E2.128043@fx33.iad</segment>
+  <segment bytes="398741" number="34">NMq1A.251424$8E2.120423@fx33.iad</segment>
+  <segment bytes="399027" number="35">NMq1A.251426$8E2.230280@fx33.iad</segment>
+  <segment bytes="399092" number="36">OMq1A.251427$8E2.125888@fx33.iad</segment>
+  <segment bytes="398920" number="37">PMq1A.251428$8E2.159679@fx33.iad</segment>
+  <segment bytes="399042" number="38">QMq1A.251430$8E2.200116@fx33.iad</segment>
+  <segment bytes="399782" number="39">QMq1A.251431$8E2.6470@fx33.iad</segment>
+  <segment bytes="25919" number="40">RMq1A.251432$8E2.226378@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [09/23] - &quot;Big.Buck.Bunny.part08.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="399302" number="1">SMq1A.251434$8E2.95886@fx33.iad</segment>
+  <segment bytes="398759" number="2">SMq1A.251435$8E2.187723@fx33.iad</segment>
+  <segment bytes="398729" number="3">TMq1A.251437$8E2.101184@fx33.iad</segment>
+  <segment bytes="398534" number="4">UMq1A.251438$8E2.90272@fx33.iad</segment>
+  <segment bytes="398705" number="5">VMq1A.251439$8E2.78490@fx33.iad</segment>
+  <segment bytes="398744" number="6">WMq1A.251441$8E2.51336@fx33.iad</segment>
+  <segment bytes="398413" number="7">WMq1A.251442$8E2.38895@fx33.iad</segment>
+  <segment bytes="398731" number="8">XMq1A.251444$8E2.247444@fx33.iad</segment>
+  <segment bytes="395963" number="9">YMq1A.251445$8E2.49980@fx33.iad</segment>
+  <segment bytes="398619" number="10">ZMq1A.251446$8E2.245994@fx33.iad</segment>
+  <segment bytes="395902" number="11">ZMq1A.251448$8E2.78776@fx33.iad</segment>
+  <segment bytes="398655" number="12">_Mq1A.251449$8E2.70818@fx33.iad</segment>
+  <segment bytes="398622" number="13">%Mq1A.251451$8E2.116314@fx33.iad</segment>
+  <segment bytes="398539" number="14">0Nq1A.251452$8E2.8531@fx33.iad</segment>
+  <segment bytes="398724" number="15">0Nq1A.251453$8E2.97050@fx33.iad</segment>
+  <segment bytes="398732" number="16">1Nq1A.251455$8E2.166868@fx33.iad</segment>
+  <segment bytes="398835" number="17">2Nq1A.251456$8E2.181667@fx33.iad</segment>
+  <segment bytes="398819" number="18">3Nq1A.251457$8E2.159807@fx33.iad</segment>
+  <segment bytes="398924" number="19">3Nq1A.251459$8E2.22745@fx33.iad</segment>
+  <segment bytes="398727" number="20">4Nq1A.251460$8E2.2473@fx33.iad</segment>
+  <segment bytes="398573" number="21">5Nq1A.251462$8E2.201449@fx33.iad</segment>
+  <segment bytes="398559" number="22">6Nq1A.251463$8E2.21338@fx33.iad</segment>
+  <segment bytes="398608" number="23">7Nq1A.251464$8E2.209735@fx33.iad</segment>
+  <segment bytes="398834" number="24">7Nq1A.251466$8E2.174125@fx33.iad</segment>
+  <segment bytes="398663" number="25">8Nq1A.251467$8E2.63375@fx33.iad</segment>
+  <segment bytes="398536" number="26">9Nq1A.251469$8E2.91722@fx33.iad</segment>
+  <segment bytes="399460" number="27">aNq1A.251470$8E2.212107@fx33.iad</segment>
+  <segment bytes="396632" number="28">bNq1A.251471$8E2.151930@fx33.iad</segment>
+  <segment bytes="398686" number="29">bNq1A.251473$8E2.154167@fx33.iad</segment>
+  <segment bytes="398763" number="30">cNq1A.251475$8E2.179668@fx33.iad</segment>
+  <segment bytes="398725" number="31">dNq1A.251476$8E2.53303@fx33.iad</segment>
+  <segment bytes="398557" number="32">eNq1A.251477$8E2.113971@fx33.iad</segment>
+  <segment bytes="398591" number="33">eNq1A.251479$8E2.90559@fx33.iad</segment>
+  <segment bytes="398728" number="34">fNq1A.251480$8E2.25925@fx33.iad</segment>
+  <segment bytes="398660" number="35">gNq1A.251482$8E2.182233@fx33.iad</segment>
+  <segment bytes="398484" number="36">hNq1A.251483$8E2.211239@fx33.iad</segment>
+  <segment bytes="398617" number="37">iNq1A.251485$8E2.157366@fx33.iad</segment>
+  <segment bytes="399035" number="38">iNq1A.251486$8E2.48752@fx33.iad</segment>
+  <segment bytes="396282" number="39">jNq1A.251487$8E2.21013@fx33.iad</segment>
+  <segment bytes="25724" number="40">kNq1A.251488$8E2.144830@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [10/23] - &quot;Big.Buck.Bunny.part09.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398968" number="1">kNq1A.251490$8E2.243185@fx33.iad</segment>
+  <segment bytes="398902" number="2">lNq1A.251491$8E2.187540@fx33.iad</segment>
+  <segment bytes="399384" number="3">mNq1A.251493$8E2.171097@fx33.iad</segment>
+  <segment bytes="399019" number="4">nNq1A.251494$8E2.193230@fx33.iad</segment>
+  <segment bytes="398887" number="5">nNq1A.251495$8E2.237504@fx33.iad</segment>
+  <segment bytes="398935" number="6">oNq1A.251497$8E2.248464@fx33.iad</segment>  
+  <segment bytes="398733" number="7">pNq1A.251498$8E2.42321@fx33.iad</segment>
+  <segment bytes="398781" number="8">qNq1A.251499$8E2.194596@fx33.iad</segment>
+  <segment bytes="399074" number="9">qNq1A.251501$8E2.45131@fx33.iad</segment>
+  <segment bytes="398974" number="10">rNq1A.251502$8E2.243457@fx33.iad</segment>
+  <segment bytes="398661" number="11">sNq1A.251504$8E2.188771@fx33.iad</segment>
+  <segment bytes="398742" number="12">tNq1A.251505$8E2.110532@fx33.iad</segment>
+  <segment bytes="398598" number="13">uNq1A.251506$8E2.203109@fx33.iad</segment>
+  <segment bytes="398879" number="14">uNq1A.251508$8E2.141968@fx33.iad</segment>
+  <segment bytes="398972" number="15">vNq1A.251509$8E2.8478@fx33.iad</segment>
+  <segment bytes="399326" number="16">wNq1A.251510$8E2.189588@fx33.iad</segment>
+  <segment bytes="399731" number="17">xNq1A.251512$8E2.124705@fx33.iad</segment>
+  <segment bytes="399104" number="18">xNq1A.251513$8E2.238137@fx33.iad</segment>
+  <segment bytes="399220" number="19">yNq1A.251515$8E2.87893@fx33.iad</segment>
+  <segment bytes="398996" number="20">zNq1A.251516$8E2.250106@fx33.iad</segment>
+  <segment bytes="398795" number="21">ANq1A.251517$8E2.161857@fx33.iad</segment>
+  <segment bytes="398607" number="22">ANq1A.251519$8E2.74853@fx33.iad</segment>
+  <segment bytes="398722" number="23">BNq1A.251520$8E2.159783@fx33.iad</segment>
+  <segment bytes="398767" number="24">CNq1A.251521$8E2.18202@fx33.iad</segment>
+  <segment bytes="398760" number="25">DNq1A.251523$8E2.194130@fx33.iad</segment>
+  <segment bytes="399118" number="26">DNq1A.251524$8E2.143587@fx33.iad</segment>
+  <segment bytes="399231" number="27">ENq1A.251526$8E2.7330@fx33.iad</segment>
+  <segment bytes="396221" number="28">FNq1A.251527$8E2.68709@fx33.iad</segment>
+  <segment bytes="399213" number="29">GNq1A.251528$8E2.105919@fx33.iad</segment>
+  <segment bytes="399058" number="30">HNq1A.251530$8E2.12745@fx33.iad</segment>
+  <segment bytes="398926" number="31">HNq1A.251531$8E2.115362@fx33.iad</segment>
+  <segment bytes="398567" number="32">INq1A.251532$8E2.194661@fx33.iad</segment>
+  <segment bytes="398685" number="33">JNq1A.251534$8E2.231214@fx33.iad</segment>
+  <segment bytes="399002" number="34">KNq1A.251535$8E2.86837@fx33.iad</segment>
+  <segment bytes="398648" number="35">KNq1A.251536$8E2.7055@fx33.iad</segment>
+  <segment bytes="398707" number="36">LNq1A.251538$8E2.218220@fx33.iad</segment>
+  <segment bytes="395829" number="37">MNq1A.251539$8E2.56751@fx33.iad</segment>
+  <segment bytes="398607" number="38">NNq1A.251540$8E2.82076@fx33.iad</segment>
+  <segment bytes="398621" number="39">ONq1A.251542$8E2.158204@fx33.iad</segment>
+  <segment bytes="25911" number="40">ONq1A.251543$8E2.201636@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [11/23] - &quot;Big.Buck.Bunny.part010.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398512" number="1">PNq1A.251545$8E2.212648@fx33.iad</segment>
+  <segment bytes="396376" number="2">QNq1A.251546$8E2.11642@fx33.iad</segment>
+  <segment bytes="398884" number="3">QNq1A.251547$8E2.48094@fx33.iad</segment>
+  <segment bytes="398651" number="4">RNq1A.251549$8E2.207810@fx33.iad</segment>
+  <segment bytes="398819" number="5">SNq1A.251550$8E2.210064@fx33.iad</segment>
+  <segment bytes="398606" number="6">TNq1A.251551$8E2.48683@fx33.iad</segment>
+  <segment bytes="395913" number="7">TNq1A.251553$8E2.3250@fx33.iad</segment>
+  <segment bytes="399008" number="8">UNq1A.251554$8E2.133044@fx33.iad</segment>
+  <segment bytes="396346" number="9">VNq1A.251555$8E2.158425@fx33.iad</segment>
+  <segment bytes="398539" number="10">WNq1A.251557$8E2.46560@fx33.iad</segment>
+  <segment bytes="398660" number="11">XNq1A.251558$8E2.160216@fx33.iad</segment>
+  <segment bytes="398634" number="12">XNq1A.251560$8E2.56707@fx33.iad</segment>
+  <segment bytes="398452" number="13">YNq1A.251561$8E2.238460@fx33.iad</segment>
+  <segment bytes="398510" number="14">ZNq1A.251563$8E2.178534@fx33.iad</segment>
+  <segment bytes="398642" number="15">_Nq1A.251564$8E2.164129@fx33.iad</segment>
+  <segment bytes="398577" number="16">%Nq1A.251566$8E2.135030@fx33.iad</segment>
+  <segment bytes="398410" number="17">%Nq1A.251567$8E2.84720@fx33.iad</segment>
+  <segment bytes="398324" number="18">0Oq1A.251568$8E2.100868@fx33.iad</segment>
+  <segment bytes="398514" number="19">1Oq1A.251570$8E2.226898@fx33.iad</segment>
+  <segment bytes="398587" number="20">2Oq1A.251571$8E2.45256@fx33.iad</segment>
+  <segment bytes="398827" number="21">2Oq1A.251572$8E2.41059@fx33.iad</segment>
+  <segment bytes="398981" number="22">3Oq1A.251574$8E2.136389@fx33.iad</segment>
+  <segment bytes="399216" number="23">4Oq1A.251575$8E2.99270@fx33.iad</segment>
+  <segment bytes="398492" number="24">5Oq1A.251577$8E2.188025@fx33.iad</segment>
+  <segment bytes="398601" number="25">5Oq1A.251578$8E2.27148@fx33.iad</segment>
+  <segment bytes="398469" number="26">6Oq1A.251579$8E2.92679@fx33.iad</segment>
+  <segment bytes="398952" number="27">7Oq1A.251581$8E2.101186@fx33.iad</segment>
+  <segment bytes="395781" number="28">8Oq1A.251582$8E2.79478@fx33.iad</segment>
+  <segment bytes="398616" number="29">9Oq1A.251584$8E2.37389@fx33.iad</segment>
+  <segment bytes="398784" number="30">9Oq1A.251585$8E2.217034@fx33.iad</segment>
+  <segment bytes="399581" number="31">aOq1A.251586$8E2.162125@fx33.iad</segment>
+  <segment bytes="399738" number="32">bOq1A.251588$8E2.243323@fx33.iad</segment>
+  <segment bytes="399191" number="33">cOq1A.251589$8E2.204176@fx33.iad</segment>
+  <segment bytes="399005" number="34">cOq1A.251591$8E2.184@fx33.iad</segment>
+  <segment bytes="398450" number="35">dOq1A.251592$8E2.232330@fx33.iad</segment>
+  <segment bytes="398557" number="36">eOq1A.251594$8E2.30249@fx33.iad</segment>
+  <segment bytes="398701" number="37">fOq1A.251595$8E2.242706@fx33.iad</segment>
+  <segment bytes="398985" number="38">fOq1A.251596$8E2.200257@fx33.iad</segment>
+  <segment bytes="399317" number="39">gOq1A.251598$8E2.106681@fx33.iad</segment>
+  <segment bytes="25946" number="40">hOq1A.251599$8E2.230262@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [12/23] - &quot;Big.Buck.Bunny.part011.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398951" number="1">hOq1A.251600$8E2.100139@fx33.iad</segment>
+  <segment bytes="398733" number="2">iOq1A.251602$8E2.69272@fx33.iad</segment>
+  <segment bytes="399585" number="3">jOq1A.251603$8E2.55578@fx33.iad</segment>
+  <segment bytes="399503" number="4">kOq1A.251604$8E2.246189@fx33.iad</segment>
+  <segment bytes="398502" number="5">kOq1A.251606$8E2.19349@fx33.iad</segment>
+  <segment bytes="398517" number="6">lOq1A.251607$8E2.201079@fx33.iad</segment>
+  <segment bytes="398660" number="7">mOq1A.251609$8E2.195212@fx33.iad</segment>
+  <segment bytes="398336" number="8">nOq1A.251610$8E2.3412@fx33.iad</segment>
+  <segment bytes="398709" number="9">oOq1A.251611$8E2.181197@fx33.iad</segment>
+  <segment bytes="395752" number="10">oOq1A.251613$8E2.176453@fx33.iad</segment>
+  <segment bytes="398383" number="11">pOq1A.251614$8E2.53215@fx33.iad</segment>
+  <segment bytes="395480" number="12">qOq1A.251615$8E2.7878@fx33.iad</segment>
+  <segment bytes="398459" number="13">rOq1A.251617$8E2.93008@fx33.iad</segment>
+  <segment bytes="398637" number="14">sOq1A.251618$8E2.187304@fx33.iad</segment>
+  <segment bytes="398506" number="15">tOq1A.251619$8E2.40510@fx33.iad</segment>
+  <segment bytes="398550" number="16">tOq1A.251621$8E2.185748@fx33.iad</segment>
+  <segment bytes="398356" number="17">uOq1A.251622$8E2.44142@fx33.iad</segment>
+  <segment bytes="398635" number="18">vOq1A.251623$8E2.182041@fx33.iad</segment>
+  <segment bytes="399191" number="19">wOq1A.251625$8E2.113438@fx33.iad</segment>
+  <segment bytes="398602" number="20">wOq1A.251626$8E2.75163@fx33.iad</segment>
+  <segment bytes="398820" number="21">xOq1A.251627$8E2.239978@fx33.iad</segment>
+  <segment bytes="396236" number="22">yOq1A.251628$8E2.55477@fx33.iad</segment>
+  <segment bytes="398801" number="23">zOq1A.251630$8E2.246801@fx33.iad</segment>
+  <segment bytes="396166" number="24">zOq1A.251631$8E2.207471@fx33.iad</segment>
+  <segment bytes="395771" number="25">AOq1A.251632$8E2.198832@fx33.iad</segment>
+  <segment bytes="398936" number="26">BOq1A.251634$8E2.236811@fx33.iad</segment>
+  <segment bytes="398681" number="27">COq1A.251635$8E2.173526@fx33.iad</segment>
+  <segment bytes="398476" number="28">COq1A.251636$8E2.70540@fx33.iad</segment>
+  <segment bytes="398370" number="29">DOq1A.251638$8E2.87836@fx33.iad</segment>
+  <segment bytes="399964" number="30">EOq1A.251639$8E2.247215@fx33.iad</segment>
+  <segment bytes="400088" number="31">FOq1A.251641$8E2.134088@fx33.iad</segment>
+  <segment bytes="399970" number="32">FOq1A.251642$8E2.225096@fx33.iad</segment>
+  <segment bytes="399986" number="33">GOq1A.251643$8E2.114490@fx33.iad</segment>
+  <segment bytes="400176" number="34">HOq1A.251645$8E2.184899@fx33.iad</segment>
+  <segment bytes="397436" number="35">IOq1A.251646$8E2.90027@fx33.iad</segment>  
+  <segment bytes="399882" number="36">IOq1A.251648$8E2.142803@fx33.iad</segment>
+  <segment bytes="400328" number="37">JOq1A.251649$8E2.46249@fx33.iad</segment>
+  <segment bytes="400173" number="38">KOq1A.251650$8E2.228206@fx33.iad</segment>
+  <segment bytes="399669" number="39">LOq1A.251652$8E2.19605@fx33.iad</segment>
+  <segment bytes="25909" number="40">LOq1A.251653$8E2.110726@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [13/23] - &quot;Big.Buck.Bunny.part012.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398743" number="1">MOq1A.251654$8E2.174333@fx33.iad</segment>
+  <segment bytes="399328" number="2">NOq1A.251656$8E2.66602@fx33.iad</segment>
+  <segment bytes="399760" number="3">OOq1A.251657$8E2.206798@fx33.iad</segment>
+  <segment bytes="399355" number="4">OOq1A.251659$8E2.49438@fx33.iad</segment>
+  <segment bytes="399591" number="5">POq1A.251660$8E2.240281@fx33.iad</segment>
+  <segment bytes="399370" number="6">QOq1A.251662$8E2.238391@fx33.iad</segment>
+  <segment bytes="399636" number="7">ROq1A.251663$8E2.189004@fx33.iad</segment>
+  <segment bytes="398987" number="8">ROq1A.251664$8E2.123885@fx33.iad</segment>
+  <segment bytes="399156" number="9">SOq1A.251666$8E2.244462@fx33.iad</segment>
+  <segment bytes="396127" number="10">TOq1A.251667$8E2.217234@fx33.iad</segment>
+  <segment bytes="398931" number="11">UOq1A.251669$8E2.140171@fx33.iad</segment>
+  <segment bytes="398873" number="12">VOq1A.251670$8E2.171957@fx33.iad</segment>
+  <segment bytes="396273" number="13">VOq1A.251672$8E2.224167@fx33.iad</segment>
+  <segment bytes="399287" number="14">WOq1A.251673$8E2.191118@fx33.iad</segment>
+  <segment bytes="399205" number="15">XOq1A.251674$8E2.7494@fx33.iad</segment>
+  <segment bytes="398960" number="16">YOq1A.251676$8E2.32487@fx33.iad</segment>
+  <segment bytes="398624" number="17">ZOq1A.251677$8E2.23370@fx33.iad</segment>
+  <segment bytes="398871" number="18">ZOq1A.251678$8E2.164750@fx33.iad</segment>
+  <segment bytes="398601" number="19">_Oq1A.251680$8E2.233791@fx33.iad</segment>
+  <segment bytes="398971" number="20">%Oq1A.251681$8E2.75496@fx33.iad</segment>
+  <segment bytes="399564" number="21">0Pq1A.251683$8E2.91747@fx33.iad</segment>
+  <segment bytes="396398" number="22">0Pq1A.251684$8E2.46815@fx33.iad</segment>
+  <segment bytes="398999" number="23">1Pq1A.251685$8E2.52863@fx33.iad</segment>
+  <segment bytes="398561" number="24">2Pq1A.251687$8E2.6793@fx33.iad</segment>
+  <segment bytes="399002" number="25">3Pq1A.251688$8E2.147988@fx33.iad</segment>
+  <segment bytes="398706" number="26">3Pq1A.251690$8E2.177808@fx33.iad</segment>
+  <segment bytes="398851" number="27">4Pq1A.251692$8E2.225284@fx33.iad</segment>
+  <segment bytes="395979" number="28">5Pq1A.251693$8E2.233184@fx33.iad</segment>
+  <segment bytes="395860" number="29">6Pq1A.251695$8E2.24831@fx33.iad</segment>
+  <segment bytes="399049" number="30">6Pq1A.251696$8E2.23921@fx33.iad</segment>
+  <segment bytes="396060" number="31">7Pq1A.251698$8E2.124495@fx33.iad</segment>
+  <segment bytes="395951" number="32">8Pq1A.251700$8E2.106265@fx33.iad</segment>
+  <segment bytes="398916" number="33">9Pq1A.251702$8E2.18915@fx33.iad</segment>
+  <segment bytes="398660" number="34">aPq1A.251703$8E2.245920@fx33.iad</segment>
+  <segment bytes="399036" number="35">bPq1A.251705$8E2.186551@fx33.iad</segment>
+  <segment bytes="398891" number="36">bPq1A.251707$8E2.13451@fx33.iad</segment>
+  <segment bytes="398718" number="37">cPq1A.251708$8E2.247509@fx33.iad</segment>
+  <segment bytes="398746" number="38">dPq1A.251710$8E2.2264@fx33.iad</segment>
+  <segment bytes="398751" number="39">ePq1A.251711$8E2.155997@fx33.iad</segment>
+  <segment bytes="25730" number="40">ePq1A.251713$8E2.198358@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [14/23] - &quot;Big.Buck.Bunny.part013.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398641" number="1">fPq1A.251715$8E2.93634@fx33.iad</segment>
+  <segment bytes="398652" number="2">gPq1A.251716$8E2.164616@fx33.iad</segment>
+  <segment bytes="398660" number="3">hPq1A.251718$8E2.74884@fx33.iad</segment>
+  <segment bytes="399019" number="4">hPq1A.251720$8E2.158098@fx33.iad</segment>
+  <segment bytes="398637" number="5">iPq1A.251721$8E2.10978@fx33.iad</segment>
+  <segment bytes="398680" number="6">jPq1A.251723$8E2.195173@fx33.iad</segment>
+  <segment bytes="398779" number="7">kPq1A.251725$8E2.56923@fx33.iad</segment>
+  <segment bytes="395758" number="8">lPq1A.251726$8E2.72279@fx33.iad</segment>
+  <segment bytes="395787" number="9">mPq1A.251728$8E2.55752@fx33.iad</segment>
+  <segment bytes="398866" number="10">nPq1A.251730$8E2.81993@fx33.iad</segment>
+  <segment bytes="398587" number="11">nPq1A.251731$8E2.72166@fx33.iad</segment>
+  <segment bytes="398594" number="12">oPq1A.251733$8E2.42400@fx33.iad</segment>
+  <segment bytes="398741" number="13">pPq1A.251735$8E2.67016@fx33.iad</segment>
+  <segment bytes="398626" number="14">qPq1A.251737$8E2.230276@fx33.iad</segment>
+  <segment bytes="398640" number="15">qPq1A.251738$8E2.124003@fx33.iad</segment>
+  <segment bytes="398529" number="16">rPq1A.251740$8E2.115688@fx33.iad</segment>
+  <segment bytes="398720" number="17">sPq1A.251741$8E2.53769@fx33.iad</segment>
+  <segment bytes="398576" number="18">tPq1A.251743$8E2.27207@fx33.iad</segment>
+  <segment bytes="398626" number="19">uPq1A.251745$8E2.118585@fx33.iad</segment>
+  <segment bytes="398547" number="20">uPq1A.251746$8E2.47420@fx33.iad</segment>
+  <segment bytes="395829" number="21">vPq1A.251748$8E2.32675@fx33.iad</segment>
+  <segment bytes="398661" number="22">wPq1A.251750$8E2.212633@fx33.iad</segment>
+  <segment bytes="395901" number="23">xPq1A.251751$8E2.10422@fx33.iad</segment>
+  <segment bytes="398722" number="24">xPq1A.251753$8E2.216377@fx33.iad</segment>
+  <segment bytes="398760" number="25">yPq1A.251754$8E2.109204@fx33.iad</segment>
+  <segment bytes="398971" number="26">zPq1A.251756$8E2.140960@fx33.iad</segment>
+  <segment bytes="398567" number="27">APq1A.251757$8E2.204230@fx33.iad</segment>
+  <segment bytes="395882" number="28">APq1A.251759$8E2.9088@fx33.iad</segment>
+  <segment bytes="398778" number="29">BPq1A.251760$8E2.181629@fx33.iad</segment>
+  <segment bytes="398801" number="30">CPq1A.251762$8E2.34591@fx33.iad</segment>
+  <segment bytes="398604" number="31">DPq1A.251764$8E2.74460@fx33.iad</segment>
+  <segment bytes="398644" number="32">EPq1A.251765$8E2.157784@fx33.iad</segment>
+  <segment bytes="398909" number="33">EPq1A.251767$8E2.212043@fx33.iad</segment>
+  <segment bytes="398738" number="34">FPq1A.251768$8E2.230516@fx33.iad</segment>
+  <segment bytes="398979" number="35">GPq1A.251770$8E2.214583@fx33.iad</segment>
+  <segment bytes="398773" number="36">HPq1A.251772$8E2.231355@fx33.iad</segment>
+  <segment bytes="398707" number="37">HPq1A.251773$8E2.89115@fx33.iad</segment>
+  <segment bytes="398655" number="38">IPq1A.251775$8E2.200573@fx33.iad</segment>
+  <segment bytes="398730" number="39">JPq1A.251776$8E2.199552@fx33.iad</segment>
+  <segment bytes="25810" number="40">JPq1A.251778$8E2.178103@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [15/23] - &quot;Big.Buck.Bunny.part014.rar&quot; yEnc (1/40)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398531" number="1">KPq1A.251779$8E2.211849@fx33.iad</segment>
+  <segment bytes="398721" number="2">LPq1A.251781$8E2.87840@fx33.iad</segment>
+  <segment bytes="398730" number="3">MPq1A.251782$8E2.10021@fx33.iad</segment>
+  <segment bytes="398674" number="4">NPq1A.251784$8E2.172966@fx33.iad</segment>
+  <segment bytes="398737" number="5">NPq1A.251785$8E2.35538@fx33.iad</segment>
+  <segment bytes="398628" number="6">OPq1A.251787$8E2.150144@fx33.iad</segment>
+  <segment bytes="398572" number="7">PPq1A.251788$8E2.220135@fx33.iad</segment>
+  <segment bytes="398761" number="8">QPq1A.251790$8E2.242967@fx33.iad</segment>
+  <segment bytes="398920" number="9">QPq1A.251791$8E2.249978@fx33.iad</segment>
+  <segment bytes="398825" number="10">RPq1A.251793$8E2.208688@fx33.iad</segment>
+  <segment bytes="398855" number="11">SPq1A.251795$8E2.81454@fx33.iad</segment>
+  <segment bytes="398894" number="12">TPq1A.251796$8E2.214094@fx33.iad</segment>
+  <segment bytes="398716" number="13">TPq1A.251798$8E2.239507@fx33.iad</segment>
+  <segment bytes="399000" number="14">UPq1A.251799$8E2.195235@fx33.iad</segment>
+  <segment bytes="398855" number="15">VPq1A.251801$8E2.94998@fx33.iad</segment>
+  <segment bytes="398636" number="16">WPq1A.251803$8E2.23100@fx33.iad</segment>
+  <segment bytes="398902" number="17">XPq1A.251804$8E2.101029@fx33.iad</segment>
+  <segment bytes="398924" number="18">XPq1A.251806$8E2.134548@fx33.iad</segment>
+  <segment bytes="398902" number="19">YPq1A.251808$8E2.215875@fx33.iad</segment>
+  <segment bytes="399024" number="20">ZPq1A.251809$8E2.63002@fx33.iad</segment>
+  <segment bytes="396158" number="21">_Pq1A.251811$8E2.44691@fx33.iad</segment>
+  <segment bytes="396172" number="22">_Pq1A.251812$8E2.111810@fx33.iad</segment>
+  <segment bytes="398877" number="23">%Pq1A.251813$8E2.65327@fx33.iad</segment>
+  <segment bytes="398914" number="24">0Qq1A.251814$8E2.209019@fx33.iad</segment> 
+  <segment bytes="398934" number="25">1Qq1A.251815$8E2.75546@fx33.iad</segment>
+  <segment bytes="399157" number="26">1Qq1A.251816$8E2.173553@fx33.iad</segment>
+  <segment bytes="398842" number="27">2Qq1A.251817$8E2.192291@fx33.iad</segment>
+  <segment bytes="398826" number="28">3Qq1A.251818$8E2.210849@fx33.iad</segment>
+  <segment bytes="398851" number="29">4Qq1A.251819$8E2.66707@fx33.iad</segment>
+  <segment bytes="398802" number="30">5Qq1A.251820$8E2.53718@fx33.iad</segment>
+  <segment bytes="398940" number="31">5Qq1A.251821$8E2.68939@fx33.iad</segment>
+  <segment bytes="398749" number="32">6Qq1A.251822$8E2.51297@fx33.iad</segment>
+  <segment bytes="398718" number="33">7Qq1A.251823$8E2.162181@fx33.iad</segment>
+  <segment bytes="398760" number="34">8Qq1A.251824$8E2.205395@fx33.iad</segment>
+  <segment bytes="399028" number="35">8Qq1A.251825$8E2.234133@fx33.iad</segment>
+  <segment bytes="398888" number="36">9Qq1A.251826$8E2.78007@fx33.iad</segment>
+  <segment bytes="398831" number="37">aQq1A.251827$8E2.114909@fx33.iad</segment>
+  <segment bytes="398820" number="38">bQq1A.251828$8E2.64047@fx33.iad</segment>
+  <segment bytes="398810" number="39">cQq1A.251829$8E2.218662@fx33.iad</segment>
+  <segment bytes="25866" number="40">cQq1A.251830$8E2.50822@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [16/23] - &quot;Big.Buck.Bunny.part015.rar&quot; yEnc (1/28)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398847" number="1">dQq1A.251831$8E2.229116@fx33.iad</segment>
+  <segment bytes="398719" number="2">eQq1A.251832$8E2.132586@fx33.iad</segment>
+  <segment bytes="398874" number="3">eQq1A.251833$8E2.85634@fx33.iad</segment>
+  <segment bytes="398817" number="4">fQq1A.251834$8E2.103586@fx33.iad</segment>
+  <segment bytes="398847" number="5">gQq1A.251835$8E2.176154@fx33.iad</segment>
+  <segment bytes="398793" number="6">hQq1A.251836$8E2.9885@fx33.iad</segment>
+  <segment bytes="398725" number="7">hQq1A.251837$8E2.39510@fx33.iad</segment>
+  <segment bytes="398626" number="8">iQq1A.251838$8E2.87279@fx33.iad</segment>
+  <segment bytes="398537" number="9">jQq1A.251839$8E2.99968@fx33.iad</segment>
+  <segment bytes="398784" number="10">kQq1A.251840$8E2.232543@fx33.iad</segment>
+  <segment bytes="395901" number="11">kQq1A.251841$8E2.172511@fx33.iad</segment>
+  <segment bytes="398775" number="12">lQq1A.251842$8E2.57923@fx33.iad</segment>
+  <segment bytes="399313" number="13">mQq1A.251843$8E2.223686@fx33.iad</segment>
+  <segment bytes="398597" number="14">nQq1A.251844$8E2.190036@fx33.iad</segment>
+  <segment bytes="395594" number="15">nQq1A.251845$8E2.58742@fx33.iad</segment>
+  <segment bytes="395287" number="16">oQq1A.251846$8E2.17985@fx33.iad</segment>
+  <segment bytes="398327" number="17">pQq1A.251847$8E2.162253@fx33.iad</segment>
+  <segment bytes="399844" number="18">qQq1A.251848$8E2.75542@fx33.iad</segment>
+  <segment bytes="398706" number="19">rQq1A.251849$8E2.171135@fx33.iad</segment>
+  <segment bytes="398466" number="20">rQq1A.251850$8E2.24799@fx33.iad</segment>
+  <segment bytes="398514" number="21">sQq1A.251851$8E2.96162@fx33.iad</segment>
+  <segment bytes="395895" number="22">tQq1A.251852$8E2.234383@fx33.iad</segment>
+  <segment bytes="398610" number="23">uQq1A.251853$8E2.164316@fx33.iad</segment>
+  <segment bytes="395725" number="24">vQq1A.251854$8E2.153354@fx33.iad</segment>
+  <segment bytes="395550" number="25">vQq1A.251855$8E2.235013@fx33.iad</segment>
+  <segment bytes="398970" number="26">wQq1A.251856$8E2.110603@fx33.iad</segment>
+  <segment bytes="391206" number="27">xQq1A.251857$8E2.171750@fx33.iad</segment>
+  <segment bytes="151445" number="28">xQq1A.251858$8E2.45722@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [17/23] - &quot;Big Buck Bunny.sfv&quot; yEnc (1/1)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="1654" number="1">yQq1A.251859$8E2.6491@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [18/23] - &quot;Big Buck Bunny.vol00+01.PAR2&quot; yEnc (1/2)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="395515" number="1">zQq1A.251860$8E2.74952@fx33.iad</segment>
+  <segment bytes="17402" number="2">zQq1A.251861$8E2.70617@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [19/23] - &quot;Big Buck Bunny.vol01+02.PAR2&quot; yEnc (1/3)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398376" number="1">AQq1A.251862$8E2.244564@fx33.iad</segment>
+  <segment bytes="398580" number="2">BQq1A.251863$8E2.89107@fx33.iad</segment>
+  <segment bytes="33506" number="3">BQq1A.251864$8E2.108453@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [20/23] - &quot;Big Buck Bunny.vol03+04.PAR2&quot; yEnc (1/5)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398682" number="1">CQq1A.251865$8E2.4784@fx33.iad</segment>
+  <segment bytes="398352" number="2">DQq1A.251866$8E2.167008@fx33.iad</segment>
+  <segment bytes="398584" number="3">EQq1A.251867$8E2.28216@fx33.iad</segment>
+  <segment bytes="398365" number="4">EQq1A.251868$8E2.74669@fx33.iad</segment>
+  <segment bytes="49941" number="5">FQq1A.251869$8E2.142348@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [21/23] - &quot;Big Buck Bunny.vol07+08.PAR2&quot; yEnc (1/9)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398403" number="1">GQq1A.251870$8E2.102164@fx33.iad</segment>
+  <segment bytes="398230" number="2">GQq1A.251871$8E2.235349@fx33.iad</segment>
+  <segment bytes="398373" number="3">HQq1A.251872$8E2.147970@fx33.iad</segment>
+  <segment bytes="395635" number="4">IQq1A.251873$8E2.39504@fx33.iad</segment>
+  <segment bytes="398300" number="5">JQq1A.251874$8E2.242380@fx33.iad</segment>
+  <segment bytes="398431" number="6">KQq1A.251875$8E2.128976@fx33.iad</segment>
+  <segment bytes="398295" number="7">KQq1A.251876$8E2.248031@fx33.iad</segment>
+  <segment bytes="398338" number="8">LQq1A.251877$8E2.243874@fx33.iad</segment>
+  <segment bytes="66485" number="9">MQq1A.251878$8E2.176704@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [22/23] - &quot;Big Buck Bunny.vol15+16.PAR2&quot; yEnc (1/17)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398457" number="1">NQq1A.251879$8E2.198060@fx33.iad</segment>
+  <segment bytes="398275" number="2">NQq1A.251880$8E2.96351@fx33.iad</segment>
+  <segment bytes="398399" number="3">OQq1A.251881$8E2.16140@fx33.iad</segment>
+  <segment bytes="395450" number="4">PQq1A.251882$8E2.151107@fx33.iad</segment>
+  <segment bytes="398470" number="5">QQq1A.251883$8E2.149211@fx33.iad</segment>
+  <segment bytes="398341" number="6">QQq1A.251884$8E2.135658@fx33.iad</segment>
+  <segment bytes="398345" number="7">RQq1A.251885$8E2.234823@fx33.iad</segment>
+  <segment bytes="398397" number="8">SQq1A.251886$8E2.19498@fx33.iad</segment>
+  <segment bytes="398455" number="9">TQq1A.251887$8E2.51741@fx33.iad</segment>
+  <segment bytes="398369" number="10">UQq1A.251888$8E2.185802@fx33.iad</segment>
+  <segment bytes="398351" number="11">UQq1A.251889$8E2.82087@fx33.iad</segment>
+  <segment bytes="398273" number="12">VQq1A.251890$8E2.145691@fx33.iad</segment>
+  <segment bytes="398318" number="13">WQq1A.251891$8E2.228144@fx33.iad</segment>
+  <segment bytes="398476" number="14">XQq1A.251893$8E2.163896@fx33.iad</segment>
+  <segment bytes="398410" number="15">YQq1A.251894$8E2.161518@fx33.iad</segment>
+  <segment bytes="398213" number="16">YQq1A.251895$8E2.229849@fx33.iad</segment>
+  <segment bytes="83158" number="17">ZQq1A.251897$8E2.34315@fx33.iad</segment>
+ </segments>
+</file>
+<file poster="pJVEXc6ADv_fRH1Hfn-5jr@jlGt68LE.twc" date="1480997691" subject="Big.Buck.Bunny [23/23] - &quot;Big Buck Bunny.vol31+28.PAR2&quot; yEnc (1/29)">
+ <groups>
+  <group>alt.binaries.hdtv</group>
+ </groups>
+ <segments>
+  <segment bytes="398335" number="1">_Qq1A.251898$8E2.186886@fx33.iad</segment>
+  <segment bytes="398384" number="2">_Qq1A.251900$8E2.21354@fx33.iad</segment>
+  <segment bytes="398308" number="3">%Qq1A.251901$8E2.1420@fx33.iad</segment>
+  <segment bytes="398569" number="4">0Rq1A.251903$8E2.233737@fx33.iad</segment>
+  <segment bytes="398578" number="5">1Rq1A.251904$8E2.67430@fx33.iad</segment>
+  <segment bytes="398460" number="6">2Rq1A.251905$8E2.6896@fx33.iad</segment>
+  <segment bytes="398121" number="7">2Rq1A.251907$8E2.88159@fx33.iad</segment>
+  <segment bytes="398422" number="8">3Rq1A.251908$8E2.12396@fx33.iad</segment>
+  <segment bytes="398492" number="9">4Rq1A.251909$8E2.159994@fx33.iad</segment>
+  <segment bytes="398495" number="10">5Rq1A.251911$8E2.72142@fx33.iad</segment>
+  <segment bytes="398494" number="11">5Rq1A.251912$8E2.87899@fx33.iad</segment>
+  <segment bytes="398322" number="12">6Rq1A.251914$8E2.28031@fx33.iad</segment>
+  <segment bytes="398231" number="13">7Rq1A.251915$8E2.150644@fx33.iad</segment>
+  <segment bytes="398388" number="14">8Rq1A.251916$8E2.40297@fx33.iad</segment>
+  <segment bytes="398314" number="15">8Rq1A.251918$8E2.215368@fx33.iad</segment>
+  <segment bytes="395497" number="16">9Rq1A.251919$8E2.19792@fx33.iad</segment>
+  <segment bytes="398361" number="17">aRq1A.251920$8E2.26412@fx33.iad</segment>
+  <segment bytes="398413" number="18">bRq1A.251922$8E2.31937@fx33.iad</segment>
+  <segment bytes="395481" number="19">bRq1A.251923$8E2.176050@fx33.iad</segment>
+  <segment bytes="398330" number="20">cRq1A.251925$8E2.214920@fx33.iad</segment>
+  <segment bytes="398495" number="21">dRq1A.251926$8E2.203792@fx33.iad</segment>
+  <segment bytes="398346" number="22">eRq1A.251927$8E2.77555@fx33.iad</segment>
+  <segment bytes="398350" number="23">eRq1A.251928$8E2.115048@fx33.iad</segment>
+  <segment bytes="398410" number="24">fRq1A.251930$8E2.121526@fx33.iad</segment>
+  <segment bytes="398479" number="25">gRq1A.251931$8E2.6655@fx33.iad</segment>
+  <segment bytes="395588" number="26">hRq1A.251933$8E2.120420@fx33.iad</segment>
+  <segment bytes="398355" number="27">hRq1A.251935$8E2.136841@fx33.iad</segment>
+  <segment bytes="398465" number="28">iRq1A.251936$8E2.243596@fx33.iad</segment>         
+  <segment bytes="84169" number="29">jRq1A.251937$8E2.196514@fx33.iad</segment>
+ </segments>
+</file>
+<!-- Provided by NZBgeek Thursday 25th July 2024 - 23:33:47pm UTC -->
+
+</nzb>
