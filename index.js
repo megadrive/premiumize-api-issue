@@ -13,9 +13,6 @@ function post(formData) {
     `https://www.premiumize.me/api/transfer/create?apikey=${PREMIUMIZE_APIKEY}`,
     {
       method: "POST",
-      headers: {
-        "Content-Type": "application/x-nzb",
-      },
       body: formData,
     }
   );
